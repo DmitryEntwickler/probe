@@ -11,4 +11,5 @@ fun br1(){
 }
 
 fun br2(){
+    println("heir branch2")
 }
