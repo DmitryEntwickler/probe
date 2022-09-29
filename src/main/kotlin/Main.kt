@@ -16,5 +16,5 @@ fun br2(){
 }
 
 fun br3(){
-
+    println("branch3")
 }
