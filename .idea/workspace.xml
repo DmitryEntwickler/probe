@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b42b8eb-269a-4f8f-8049-62b366714b56" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="branch1" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -56,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664435784354</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="br2: comit1 - Funktion erweitert">
+      <created>1664436543840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664436543840</updated>
+    </task>
+    <task id="LOCAL-00003" summary="br2: comit2 - Funktion erweitert">
+      <created>1664436575339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664436575339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="br2: comit3 - Funktion erweitert">
+      <created>1664436659792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664436659792</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,7 +100,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="branch1" />
                       </list>
                     </value>
                   </entry>
@@ -89,6 +114,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="br2: comit1 - Funktion erweitert" />
+    <MESSAGE value="br2: comit2 - Funktion erweitert" />
+    <MESSAGE value="br2: comit3 - Funktion erweitert" />
+    <option name="LAST_COMMIT_MESSAGE" value="br2: comit3 - Funktion erweitert" />
   </component>
 </project>
