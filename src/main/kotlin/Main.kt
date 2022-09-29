@@ -9,3 +9,6 @@ fun main(args: Array<String>) {
 fun br1(){
     println("heir branch1")
 }
+
+fun br2(){
+}
