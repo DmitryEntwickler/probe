@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b42b8eb-269a-4f8f-8049-62b366714b56" name="Changes" comment="br2: comit3 - Funktion erweitert">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="3b42b8eb-269a-4f8f-8049-62b366714b56" name="Changes" comment="br2: comit3 - Funktion erweitert" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     </system>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="branch1" />
+    <option name="BRANCH" value="branch4" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
