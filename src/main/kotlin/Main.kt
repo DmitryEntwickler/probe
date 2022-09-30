@@ -25,7 +25,13 @@ fun br4(){
     println("br4")
 }
 
-fun hotfix(){
+
+fun hotfix() {
     println("hotfix")
     println("hotfix")
+}
+
+fun br5(){
+    println("branch5")
+
 }
