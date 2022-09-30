@@ -19,3 +19,7 @@ fun br3(){
     println("branch3")
     println("branch3-2")
 }
+
+fun br4(){
+    println("branch4")
+}
