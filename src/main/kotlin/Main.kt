@@ -24,3 +24,8 @@ fun br4(){
     println("branch4")
     println("br4")
 }
+
+fun hotfix(){
+    println("hotfix")
+    println("hotfix")
+}
